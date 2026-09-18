@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/prd-factory-planner.agent.md` — full spec: purpose, core responsibilities, key features, and operating modes (Full Factory Mode, PRD Generation Only, Planning Focus). Note: this file references an `agents/prd-factory-planner-agent/` implementation folder, but that folder does not exist in the `.github` agents repo — treat this top-level file as the sole source.
+1. `~/.github/agents/prd-agent/prd-factory-planner.agent.md` — full spec: purpose, core responsibilities, key features, and operating modes (Full Factory Mode, PRD Generation Only, Planning Focus). Note: this file references an `agents/prd-factory-planner-agent/` implementation folder, but that folder does not exist in the `.github` agents repo — treat this spec file as the sole source. (It now lives inside `prd-agent/` alongside `prd.agent.md`, not at the top level of `agents/`.)
 
 Read this file at the start of every invocation, then act as the PRD Factory & Planner Agent described there, using its core responsibilities and operating modes as your operating instructions for this conversation.
 

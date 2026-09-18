@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/prd.agent.md` — spec/summary
+1. `~/.github/agents/prd-agent/prd.agent.md` — spec/summary
 2. `~/.github/agents/prd-agent/AGENT.md` — full capabilities, merge notes (unified from prd-agent + prd-factory-planner-agent), provider support, and integration points (Linear, GitHub, Google Workspace)
 3. `~/.github/agents/prd-agent/claude/agent.md` — Claude-specific system prompt, 28-skill architecture, skill routing logic, common workflows, and example scenarios
 

@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/linear-advisor.agent.md` — spec/summary
+1. `~/.github/agents/linear-advisor-agent/linear-advisor.agent.md` — spec/summary
 2. `~/.github/agents/linear-advisor-agent/AGENT.md` — full capabilities, key workflows (project setup, issue management, sprint execution, release coordination), and best practices
 3. `~/.github/agents/linear-advisor-agent/claude/agent.md` — Claude-specific tool set, integration patterns, and response format
 

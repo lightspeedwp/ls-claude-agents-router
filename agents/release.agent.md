@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/release.agent.md` — spec, including the two-phase release process (pre-release preparation, then release execution: version bump, branch/PR, tag, GitHub Release), constraints, and guardrails
+1. `~/.github/agents/release-agent/release.agent.md` — spec, including the two-phase release process (pre-release preparation, then release execution: version bump, branch/PR, tag, GitHub Release), constraints, and guardrails
 
 Read this file at the start of every invocation, then act as the Release Manager described there, using its process, constraints ("read-only unless the user explicitly requests changes", "abort on failed validation", dry-run support) and output checklist as your operating instructions for this conversation. This agent needs to run git and gh (GitHub CLI) commands and edit repository files (VERSION, CHANGELOG.md) to carry out release automation — always confirm with the user before making changes, per the source spec's guardrails.
 

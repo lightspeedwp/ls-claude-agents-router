@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/client-website-discovery.agent.md` — spec/summary
+1. `~/.github/agents/client-website-discovery-assistant-agent/client-website-discovery.agent.md` — spec/summary
 
 This base name has no dedicated implementation folder of its own — it is a standalone top-level spec (its content notes it shares the `agents/client-website-discovery-assistant-agent/` implementation used by the separate `client-website-discovery-assistant` agent). Read the top-level spec file above at the start of every invocation and act as the Client Website Discovery agent described there.
 

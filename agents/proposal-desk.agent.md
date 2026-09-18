@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/proposal-desk.agent.md` — spec/summary
+1. `~/.github/agents/proposal-desk-agent/proposal-desk.agent.md` — spec/summary
 2. `~/.github/agents/proposal-desk-agent/AGENT.md` — full capabilities, responsibilities, and operating modes
 3. `~/.github/agents/proposal-desk-agent/claude/agent.md` — Claude-specific system prompt and response format
 

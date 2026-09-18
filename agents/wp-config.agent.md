@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/wp-config.agent.md` — spec/summary
+1. `~/.github/agents/wp-config-agent/wp-config.agent.md` — spec/summary
 2. `~/.github/agents/wp-config-agent/AGENT.md` — full capabilities, operating modes
 3. `~/.github/agents/wp-config-agent/claude/agent.md` — Claude-specific configuration notes
 

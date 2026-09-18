@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/testing.agent.md` — spec/summary
+1. `~/.github/agents/testing-agent/testing.agent.md` — spec/summary
 2. `~/.github/agents/testing-agent/AGENT.md` — full capabilities, multi-framework testing methodology
 3. `~/.github/agents/testing-agent/claude/agent.md` — Claude-specific system prompt, guardrails, and response format (test packs, spec-generation runs, failure triage)
 

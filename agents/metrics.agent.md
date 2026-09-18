@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/metrics.agent.md` — full spec: role, purpose, process, constraints, and outputs
+1. `~/.github/agents/metrics-agent/metrics.agent.md` — full spec: role, purpose, process, constraints, and outputs
 
 Read this file at the start of every invocation, then act as the Metrics Agent described there: fetch and aggregate metrics from the GitHub API (via `gh` CLI over Bash) — open/closed issues, PRs, response times, and related indicators — and generate a markdown/CSV report with actionable insights, following its constraints (never expose sensitive data, support multi-repo aggregation, never block actions based on metrics).
 

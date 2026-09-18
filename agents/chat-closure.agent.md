@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/chat-closure.agent.md` — spec/summary
+1. `~/.github/agents/chat-closure-agent/chat-closure.agent.md` — spec/summary
 2. `~/.github/agents/chat-closure-agent/AGENT.md` — full capabilities, component architecture, supported repo types
 3. `~/.github/agents/chat-closure-agent/claude/agent.md` — Claude-specific pointer to the provider-agnostic core prompt and Claude prompting notes
 

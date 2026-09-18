@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/design-partner.agent.md` — spec/summary
+1. `~/.github/agents/design-partner-agent/design-partner.agent.md` — spec/summary
 2. `~/.github/agents/design-partner-agent/AGENT.md` — full capabilities, scenarios
 3. `~/.github/agents/design-partner-agent/claude/agent.md` — Claude-specific system prompt, available tools, and integration patterns
 

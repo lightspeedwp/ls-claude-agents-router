@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/pagespeed.agent.md` — spec/summary
+1. `~/.github/agents/pagespeed-agent/pagespeed.agent.md` — spec/summary
 2. `~/.github/agents/pagespeed-agent/AGENT.md` — full capabilities, metrics reference, error handling, and advanced scenarios
 3. `~/.github/agents/pagespeed-agent/claude/agent.md` — Claude-specific system prompt, 5-phase optimization methodology, and response format
 

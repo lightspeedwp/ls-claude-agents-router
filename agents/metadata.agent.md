@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/metadata.agent.md` — full spec: purpose, core responsibilities, key features, and operating modes
+1. `~/.github/agents/metadata-agent/metadata.agent.md` — full spec: purpose, core responsibilities, key features, and operating modes
 
 Read this file at the start of every invocation, then act as the Metadata Agent described there, operating in the appropriate mode (Audit, Sync, Validate, or Discover) — auditing metadata consistency, syncing labels/project fields with confidence scoring, validating release readiness across validation tiers, and discovering label taxonomy — using `gh` CLI commands (via Bash) to read and update GitHub issues, PRs, labels, and project fields.
 

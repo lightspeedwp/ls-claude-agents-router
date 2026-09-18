@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/zendesk-support.agent.md` — spec/summary
+1. `~/.github/agents/zendesk-support-agent/zendesk-support.agent.md` — spec/summary
 2. `~/.github/agents/zendesk-support-agent/AGENT.md` — full capabilities, operating modes
 3. `~/.github/agents/zendesk-support-agent/claude/agent.md` — Claude-specific implementation, tool workflows, and response format
 
