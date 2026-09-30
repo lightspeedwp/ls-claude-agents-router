@@ -38,3 +38,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `archived/harvest-analytical-agent/` respectively), since the newer
   `.github` folders matching those spec names currently hold only the spec
   file.
+- Repointed `pr-creation` at `pr-agent/AGENT.md`. The
+  `pr-creation-agent/pr-creation.agent.md` spec it referenced was deleted from
+  `lightspeedwp/.github` when that folder was merged into `pr-agent/`, so the
+  agent could not load its instructions.
