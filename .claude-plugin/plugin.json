@@ -1,5 +1,5 @@
 {
-	"$schema": "https://github.com/hesreallyhim/claude-code-json-schema/blob/main/schemas/plugin.schema.json",
+	"$schema": "https://raw.githubusercontent.com/hesreallyhim/claude-code-json-schema/refs/heads/main/schemas/plugin.schema.json",
 	"name": "ls-claude-agents-router",
 	"version": "1.0.3",
 	"description": "Routes the agents from LightSpeeds .github repository to the claude app.",
@@ -7,6 +7,7 @@
 		"name": "krugazul",
 		"email": "krugazul@gmail.com"
 	},
+	"repository": "https://github.com/lightspeedwp/ls-claude-agents-router",
 	"agents": [
 		"./agents/adr.agent.md",
 		"./agents/address-comments.agent.md",

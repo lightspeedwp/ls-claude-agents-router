@@ -2,6 +2,28 @@
 
 A useful tool to allow the detection of agent listed in your .github repo.
 
+## Installation
+
+This repository is its own plugin marketplace (`.claude-plugin/marketplace.json`).
+It's private, so your machine needs GitHub access stored for `git` first, for
+example by running `gh auth login` and then `gh auth setup-git`.
+
+In a Claude Code session, run:
+
+```text
+/plugin marketplace add lightspeedwp/ls-claude-agents-router
+/plugin install ls-claude-agents-router@lightspeedwp
+```
+
+### Updates
+
+You receive a new copy only when `version` in `.claude-plugin/plugin.json`
+changes, so bump it with every release. To pull updates:
+
+- Run `/plugin marketplace update lightspeedwp`, or
+- Turn on auto-update under `/plugin` → **Marketplaces** → `lightspeedwp` →
+  **Enable auto-update**.
+
 ## Agents
 
 This plugin ships 67 specialised agents under [`agents/`](./agents), each defined in a `*.agent.md` file.

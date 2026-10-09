@@ -7,6 +7,71 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-10-09
+
+### Changed
+
+- Renamed the plugin from `lsx-agents` to `ls-claude-agents-router` and
+  updated its description. Agents are now invoked with the
+  `ls-claude-agents-router:` prefix instead of `lsx-agents:`, so any prompts,
+  docs, or settings using the old prefix need updating.
+- Switched `$schema` in `.claude-plugin/plugin.json` to the community
+  `claude-code-json-schema` plugin schema.
+
+### Fixed
+
+- Pointed `$schema` at the raw JSON file so editors can resolve it; it
+  previously linked to a GitHub HTML page.
+- Removed an accidentally committed `.DS_Store` file and added a `.gitignore`
+  to keep it out.
+
+## [1.0.2] - 2026-09-30
+
+### Fixed
+
+- Repointed `pr-creation` at `pr-agent/AGENT.md`. The
+  `pr-creation-agent/pr-creation.agent.md` spec it referenced was deleted from
+  `lightspeedwp/.github` when that folder was merged into `pr-agent/`, so the
+  agent could not load its instructions.
+
+## [1.0.1] - 2026-09-18
+
+### Added
+
+- Added the `repository` field to `.claude-plugin/plugin.json`, pointing at
+  `https://github.com/lightspeedwp/ls-claude-agents-router`.
+- Added `.claude-plugin/marketplace.json` so the repository works as its own
+  `lightspeedwp` marketplace, and install and update steps to the README.
+
+## [1.0.3] - 2026-10-09
+
+### Changed
+
+- Renamed the plugin from `lsx-agents` to `ls-claude-agents-router` and
+  updated its description. Agents are now invoked with the
+  `ls-claude-agents-router:` prefix instead of `lsx-agents:`, so any prompts,
+  docs, or settings using the old prefix need updating.
+- Switched `$schema` in `.claude-plugin/plugin.json` to the community
+  `claude-code-json-schema` plugin schema.
+
+### Fixed
+
+- Pointed `$schema` at the raw JSON file so editors can resolve it; it
+  previously linked to a GitHub HTML page.
+- Removed an accidentally committed `.DS_Store` file and added a `.gitignore`
+  to keep it out.
+
+## [1.0.2] - 2026-09-30
+
+### Fixed
+
+- Repointed `pr-creation` at `pr-agent/AGENT.md`. The
+  `pr-creation-agent/pr-creation.agent.md` spec it referenced was deleted from
+  `lightspeedwp/.github` when that folder was merged into `pr-agent/`, so the
+  agent could not load its instructions.
+
+## [1.0.1] - 2026-09-18
+
 ### Added
 
 - Added 29 new agents that existed in `lightspeedwp/.github` `agents/` but
@@ -38,7 +103,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `archived/harvest-analytical-agent/` respectively), since the newer
   `.github` folders matching those spec names currently hold only the spec
   file.
-- Repointed `pr-creation` at `pr-agent/AGENT.md`. The
-  `pr-creation-agent/pr-creation.agent.md` spec it referenced was deleted from
-  `lightspeedwp/.github` when that folder was merged into `pr-agent/`, so the
-  agent could not load its instructions.
