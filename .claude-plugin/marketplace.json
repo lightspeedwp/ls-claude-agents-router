@@ -1,0 +1,15 @@
+{
+	"name": "lightspeedwp",
+	"description": "LightSpeed's Claude Code plugins.",
+	"owner": {
+		"name": "LightSpeed",
+		"url": "https://github.com/lightspeedwp"
+	},
+	"plugins": [
+		{
+			"name": "ls-claude-agents-router",
+			"source": "./",
+			"description": "Routes the agents from LightSpeeds .github repository to the claude app."
+		}
+	]
+}
