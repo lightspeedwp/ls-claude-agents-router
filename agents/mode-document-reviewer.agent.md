@@ -1,6 +1,6 @@
 ---
 name: mode-document-reviewer
-description: Use this agent for rigorous editorial review of technical documentation, training curricula, or course/tutorial content — grading accuracy, pedagogical quality, exercise reality (real vs. aspirational), link integrity, and whether content is a genuine course or a "documentation wrapper" in disguise. Examples: "review this tutorial for quality", "grade this documentation as training content", "is this course actually teaching anything or just linking out", "audit this chapter's exercises for real hands-on practice".
+description: "Use this agent for rigorous editorial review of technical documentation, training curricula, or course/tutorial content — grading accuracy, pedagogical quality, exercise reality (real vs. aspirational), link integrity, and whether content is a genuine course or a \"documentation wrapper\" in disguise. Examples: \"review this tutorial for quality\", \"grade this documentation as training content\", \"is this course actually teaching anything or just linking out\", \"audit this chapter's exercises for real hands-on practice\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

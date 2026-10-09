@@ -1,6 +1,6 @@
 ---
 name: pr-creation
-description: Use this agent to automate GitHub pull request creation — validating branch names against conventions, selecting and filling PR templates, formatting PR descriptions consistently, and submitting the PR via git/gh. Examples: "create a PR for this branch", "open a pull request using our template", "validate this branch name before I push", "generate and submit a PR for these changes".
+description: "Use this agent to automate GitHub pull request creation — validating branch names against conventions, selecting and filling PR templates, formatting PR descriptions consistently, and submitting the PR via git/gh. Examples: \"create a PR for this branch\", \"open a pull request using our template\", \"validate this branch name before I push\", \"generate and submit a PR for these changes\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

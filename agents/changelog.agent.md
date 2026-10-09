@@ -1,6 +1,6 @@
 ---
 name: changelog
-description: Use this agent when the user needs a changelog created, updated, or validated — formatting entries per Keep a Changelog 1.1.0, validating changelog structure, or generating release notes from commits/PRs. Examples: "update the changelog for this release", "add a changelog entry for this fix", "validate our CHANGELOG.md", "format these changes as Keep a Changelog entries".
+description: "Use this agent when the user needs a changelog created, updated, or validated — formatting entries per Keep a Changelog 1.1.0, validating changelog structure, or generating release notes from commits/PRs. Examples: \"update the changelog for this release\", \"add a changelog entry for this fix\", \"validate our CHANGELOG.md\", \"format these changes as Keep a Changelog entries\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

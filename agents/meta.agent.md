@@ -1,6 +1,6 @@
 ---
 name: meta
-description: Use this agent to apply or validate documentation metadata in Markdown files — front matter validation/enrichment, badge blocks, and category-specific footers, plus README structure/index maintenance. Examples: "add front matter to this doc", "enrich the metadata on these README files", "apply the standard badge block and footer to this markdown file", "sync README badges with workflow state".
+description: "Use this agent to apply or validate documentation metadata in Markdown files — front matter validation/enrichment, badge blocks, and category-specific footers, plus README structure/index maintenance. Examples: \"add front matter to this doc\", \"enrich the metadata on these README files\", \"apply the standard badge block and footer to this markdown file\", \"sync README badges with workflow state\"."
 tools: Read, Grep, Glob, Edit, Write
 model: sonnet
 ---

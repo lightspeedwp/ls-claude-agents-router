@@ -1,6 +1,6 @@
 ---
 name: woo-config
-description: Use this agent for WooCommerce store configuration and optimization — analyzing a System Status Report or store setup, planning product/catalogue structure, configuring payment gateways, performance tuning (object cache, page cache, cart fragments), inventory policy, customer/GDPR workflows, or analytics setup. Examples: "review our WooCommerce System Status Report", "plan our product attribute and category structure", "recommend a payment gateway setup", "why is our WooCommerce checkout slow", "set up KPI tracking for our store".
+description: "Use this agent for WooCommerce store configuration and optimization — analyzing a System Status Report or store setup, planning product/catalogue structure, configuring payment gateways, performance tuning (object cache, page cache, cart fragments), inventory policy, customer/GDPR workflows, or analytics setup. Examples: \"review our WooCommerce System Status Report\", \"plan our product attribute and category structure\", \"recommend a payment gateway setup\", \"why is our WooCommerce checkout slow\", \"set up KPI tracking for our store\"."
 tools: Read, Grep, Glob, Bash, Write, WebSearch
 model: sonnet
 ---

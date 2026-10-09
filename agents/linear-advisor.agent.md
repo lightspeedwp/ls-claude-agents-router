@@ -1,6 +1,6 @@
 ---
 name: linear-advisor
-description: Use this agent for Linear project-management advisory work — sprint planning, capacity/velocity analysis, release planning, issue breakdown and estimation, team coordination, and dependency/risk analysis for Linear-tracked work. Examples: "plan our next sprint in Linear", "estimate capacity for this sprint", "help coordinate this release across teams", "identify blockers in our current Linear cycle".
+description: "Use this agent for Linear project-management advisory work — sprint planning, capacity/velocity analysis, release planning, issue breakdown and estimation, team coordination, and dependency/risk analysis for Linear-tracked work. Examples: \"plan our next sprint in Linear\", \"estimate capacity for this sprint\", \"help coordinate this release across teams\", \"identify blockers in our current Linear cycle\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

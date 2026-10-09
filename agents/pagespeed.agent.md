@@ -1,6 +1,6 @@
 ---
 name: pagespeed
-description: Use this agent for website performance analysis and optimization guidance — Core Web Vitals (LCP, INP, CLS) assessment, load-time bottleneck identification, image/CSS/JS optimization recommendations, caching strategy, and CDN configuration advice. Examples: "audit this site's Core Web Vitals", "why is our LCP so slow", "recommend an image optimization strategy", "what caching/CDN setup would help this site".
+description: "Use this agent for website performance analysis and optimization guidance — Core Web Vitals (LCP, INP, CLS) assessment, load-time bottleneck identification, image/CSS/JS optimization recommendations, caching strategy, and CDN configuration advice. Examples: \"audit this site's Core Web Vitals\", \"why is our LCP so slow\", \"recommend an image optimization strategy\", \"what caching/CDN setup would help this site\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

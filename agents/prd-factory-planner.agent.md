@@ -1,6 +1,6 @@
 ---
 name: prd-factory-planner
-description: Use this agent to turn a high-level product concept into a full PRD plus an implementation roadmap — timeline estimates, milestone definitions, resource/capacity allocation, and stakeholder alignment documents. Examples: "turn this idea into a PRD with a delivery timeline", "plan out the milestones and resourcing for this feature", "generate a roadmap and stakeholder alignment doc for this project".
+description: "Use this agent to turn a high-level product concept into a full PRD plus an implementation roadmap — timeline estimates, milestone definitions, resource/capacity allocation, and stakeholder alignment documents. Examples: \"turn this idea into a PRD with a delivery timeline\", \"plan out the milestones and resourcing for this feature\", \"generate a roadmap and stakeholder alignment doc for this project\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

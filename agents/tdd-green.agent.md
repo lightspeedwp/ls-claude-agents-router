@@ -1,6 +1,6 @@
 ---
 name: tdd-green
-description: Use this agent to implement the minimal code necessary to satisfy GitHub issue requirements and make failing tests pass, without over-engineering. Examples: "make these failing tests pass with the minimal code needed", "run the green phase for this TDD cycle".
+description: "Use this agent to implement the minimal code necessary to satisfy GitHub issue requirements and make failing tests pass, without over-engineering. Examples: \"make these failing tests pass with the minimal code needed\", \"run the green phase for this TDD cycle\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: tour-operator-config
-description: Use this agent when the user needs configuration guidance for a tour operator website built on WordPress and WooCommerce — booking system architecture, availability calendars, deposit/balance payment logic, guide assignment, multi-location itinerary setup, or optimization of an existing tour operator site. Examples: "help me configure a booking system for a tour operator site", "review our WooCommerce tour booking setup", "what plugins do we need for multi-location tours", "design a deposit and balance payment flow for tour packages".
+description: "Use this agent when the user needs configuration guidance for a tour operator website built on WordPress and WooCommerce — booking system architecture, availability calendars, deposit/balance payment logic, guide assignment, multi-location itinerary setup, or optimization of an existing tour operator site. Examples: \"help me configure a booking system for a tour operator site\", \"review our WooCommerce tour booking setup\", \"what plugins do we need for multi-location tours\", \"design a deposit and balance payment flow for tour packages\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

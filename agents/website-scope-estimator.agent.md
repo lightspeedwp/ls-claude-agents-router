@@ -1,6 +1,6 @@
 ---
 name: website-scope-estimator
-description: Use this agent when the user needs a website or software project scoped and estimated — feature breakdown, effort hours, realistic timeline, team/resource plan, budget projection, or risk assessment. Examples: "estimate this project", "how long would this take", "scope this feature request", "what would this cost to build".
+description: "Use this agent when the user needs a website or software project scoped and estimated — feature breakdown, effort hours, realistic timeline, team/resource plan, budget projection, or risk assessment. Examples: \"estimate this project\", \"how long would this take\", \"scope this feature request\", \"what would this cost to build\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

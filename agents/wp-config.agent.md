@@ -1,6 +1,6 @@
 ---
 name: wp-config
-description: Use this agent for WordPress site configuration guidance — auditing WordPress setup, plugin recommendations, theme configuration, performance optimization, security hardening, backup strategy, or maintenance planning. Examples: "audit our WordPress configuration", "recommend plugins for this site", "harden our WordPress security", "plan a backup and maintenance strategy", "why is this WordPress site slow".
+description: "Use this agent for WordPress site configuration guidance — auditing WordPress setup, plugin recommendations, theme configuration, performance optimization, security hardening, backup strategy, or maintenance planning. Examples: \"audit our WordPress configuration\", \"recommend plugins for this site\", \"harden our WordPress security\", \"plan a backup and maintenance strategy\", \"why is this WordPress site slow\"."
 tools: Read, Grep, Glob, Bash, Write, WebSearch
 model: sonnet
 ---

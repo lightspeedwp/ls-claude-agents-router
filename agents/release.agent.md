@@ -1,6 +1,6 @@
 ---
 name: release
-description: Use this agent for release management work in a LightSpeed repo — pre-release readiness/health scans, changelog validation and enforcement, semantic version bumps, creating release branches and develop→main release PRs, tagging, publishing GitHub Releases, and generating release notes. Examples: "prepare a release", "cut a patch release", "bump the version and open a release PR", "is this repo ready to release", "generate release notes for this version", "validate the changelog before release".
+description: "Use this agent for release management work in a LightSpeed repo — pre-release readiness/health scans, changelog validation and enforcement, semantic version bumps, creating release branches and develop→main release PRs, tagging, publishing GitHub Releases, and generating release notes. Examples: \"prepare a release\", \"cut a patch release\", \"bump the version and open a release PR\", \"is this repo ready to release\", \"generate release notes for this version\", \"validate the changelog before release\"."
 tools: Read, Grep, Glob, Bash, Edit, Write, WebSearch
 model: sonnet
 ---

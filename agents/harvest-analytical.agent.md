@@ -1,6 +1,6 @@
 ---
 name: harvest-analytical
-description: Use this agent when the user needs time-tracking and project analytics from Harvest — project profitability analysis, team utilization/productivity metrics, budget tracking, billing/invoice reporting, or financial forecasting. Examples: "analyze this project's profitability from Harvest", "what's our team utilization this quarter", "generate a budget tracking report", "forecast project costs based on time tracking data".
+description: "Use this agent when the user needs time-tracking and project analytics from Harvest — project profitability analysis, team utilization/productivity metrics, budget tracking, billing/invoice reporting, or financial forecasting. Examples: \"analyze this project's profitability from Harvest\", \"what's our team utilization this quarter\", \"generate a budget tracking report\", \"forecast project costs based on time tracking data\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

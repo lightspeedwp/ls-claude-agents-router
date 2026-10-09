@@ -1,6 +1,6 @@
 ---
 name: project-meta-sync
-description: Use this agent to sync GitHub Project board meta fields (Status, Priority, Type) from issue/PR labels and branch names — automating project board triage so items stay consistent with their labels without overwriting manual edits. Examples: "sync this issue's project fields from its labels", "update the project board status based on this PR's branch name", "audit label-to-field mapping conflicts on the project board".
+description: "Use this agent to sync GitHub Project board meta fields (Status, Priority, Type) from issue/PR labels and branch names — automating project board triage so items stay consistent with their labels without overwriting manual edits. Examples: \"sync this issue's project fields from its labels\", \"update the project board status based on this PR's branch name\", \"audit label-to-field mapping conflicts on the project board\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

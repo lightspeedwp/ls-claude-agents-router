@@ -1,6 +1,6 @@
 ---
 name: markdown-accessibility-assistant
-description: Use this agent to improve the accessibility of markdown files using GitHub's markdown accessibility best practices. Examples: "check this markdown file for accessibility issues", "improve the a11y of this README", "fix heading structure and alt text in this doc".
+description: "Use this agent to improve the accessibility of markdown files using GitHub's markdown accessibility best practices. Examples: \"check this markdown file for accessibility issues\", \"improve the a11y of this README\", \"fix heading structure and alt text in this doc\"."
 tools: Read, Grep, Glob, Edit, Write
 model: sonnet
 ---

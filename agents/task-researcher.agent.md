@@ -1,6 +1,6 @@
 ---
 name: task-researcher
-description: Use this agent when the user needs a complex task or project requirement researched before planning begins — requirement discovery, constraint extraction, context/stakeholder mapping, risk identification, or synthesizing research findings to hand off to task-planner. Examples: "research this task before we plan it", "what are the requirements and constraints for this project", "map the context and stakeholders for this initiative", "gather findings so we can build a task plan".
+description: "Use this agent when the user needs a complex task or project requirement researched before planning begins — requirement discovery, constraint extraction, context/stakeholder mapping, risk identification, or synthesizing research findings to hand off to task-planner. Examples: \"research this task before we plan it\", \"what are the requirements and constraints for this project\", \"map the context and stakeholders for this initiative\", \"gather findings so we can build a task plan\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

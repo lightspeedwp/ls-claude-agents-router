@@ -1,6 +1,6 @@
 ---
 name: proposal-desk
-description: Use this agent when the user needs a client proposal, quote, or scope-of-work document produced — proposal drafting, pricing/quote generation, project scope definition, client-facing communication drafts, proposal tracking, or invoice generation from a proposal. Examples: "draft a proposal for this client", "generate a quote for this project", "write the scope of work section", "turn this estimate into a proposal", "draft an invoice from this quote".
+description: "Use this agent when the user needs a client proposal, quote, or scope-of-work document produced — proposal drafting, pricing/quote generation, project scope definition, client-facing communication drafts, proposal tracking, or invoice generation from a proposal. Examples: \"draft a proposal for this client\", \"generate a quote for this project\", \"write the scope of work section\", \"turn this estimate into a proposal\", \"draft an invoice from this quote\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

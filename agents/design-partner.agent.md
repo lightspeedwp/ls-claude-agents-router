@@ -1,6 +1,6 @@
 ---
 name: design-partner
-description: Use this agent when the user needs design collaboration support — UI/UX design review, Figma design system inspection, design token extraction, WCAG 2.2 accessibility audits, component/responsive analysis, or Code Connect mapping. Examples: "review this Figma file's design system", "audit this design for accessibility", "extract the design tokens from this file", "check color contrast on this component", "map this component to Code Connect".
+description: "Use this agent when the user needs design collaboration support — UI/UX design review, Figma design system inspection, design token extraction, WCAG 2.2 accessibility audits, component/responsive analysis, or Code Connect mapping. Examples: \"review this Figma file's design system\", \"audit this design for accessibility\", \"extract the design tokens from this file\", \"check color contrast on this component\", \"map this component to Code Connect\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

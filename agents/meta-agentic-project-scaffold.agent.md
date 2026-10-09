@@ -1,6 +1,6 @@
 ---
 name: meta-agentic-project-scaffold
-description: Use this agent to help create and manage agentic project workflows, pulling relevant prompts, instructions, and chatmodes from the github/awesome-copilot reference collection. Examples: "scaffold an agentic project workflow for this repo", "find and adapt relevant prompts/chatmodes from awesome-copilot for this project".
+description: "Use this agent to help create and manage agentic project workflows, pulling relevant prompts, instructions, and chatmodes from the github/awesome-copilot reference collection. Examples: \"scaffold an agentic project workflow for this repo\", \"find and adapt relevant prompts/chatmodes from awesome-copilot for this project\"."
 tools: Read, Grep, Glob, Bash, Edit, Write, WebSearch
 model: sonnet
 ---

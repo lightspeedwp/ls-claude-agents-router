@@ -1,6 +1,6 @@
 ---
 name: chat-closure
-description: Use this agent when the user wants to close out or hand off a long-running chat/coding session — analyzing git state (branch, commits, linked issues), writing a structured memory/handoff entry, generating a continuation prompt for the next session, and safely cleaning up the workspace. Examples: "close out this session", "generate a handoff for tomorrow", "wrap this up and write the continuation notes", "clean up this worktree safely".
+description: "Use this agent when the user wants to close out or hand off a long-running chat/coding session — analyzing git state (branch, commits, linked issues), writing a structured memory/handoff entry, generating a continuation prompt for the next session, and safely cleaning up the workspace. Examples: \"close out this session\", \"generate a handoff for tomorrow\", \"wrap this up and write the continuation notes\", \"clean up this worktree safely\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

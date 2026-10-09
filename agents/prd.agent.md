@@ -1,6 +1,6 @@
 ---
 name: prd
-description: Use this agent for end-to-end product planning — writing Product Requirements Documents, breaking requirements into features and user stories with acceptance criteria, prioritizing and estimating effort, building roadmaps and sprint plans, and coordinating handoff via GitHub, Linear, and Google Workspace. Examples: "write a PRD for this feature", "break this down into user stories with acceptance criteria", "build a roadmap and sprint plan for this project", "create GitHub issues from these requirements".
+description: "Use this agent for end-to-end product planning — writing Product Requirements Documents, breaking requirements into features and user stories with acceptance criteria, prioritizing and estimating effort, building roadmaps and sprint plans, and coordinating handoff via GitHub, Linear, and Google Workspace. Examples: \"write a PRD for this feature\", \"break this down into user stories with acceptance criteria\", \"build a roadmap and sprint plan for this project\", \"create GitHub issues from these requirements\"."
 tools: Read, Grep, Glob, WebSearch, Bash, Edit, Write
 model: sonnet
 ---

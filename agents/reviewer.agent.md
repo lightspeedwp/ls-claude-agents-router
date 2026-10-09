@@ -1,6 +1,6 @@
 ---
 name: reviewer
-description: Use this agent when the user wants an automated pull request review — a summary of CI/CD status, changed-file analysis, changelog-entry validation, and actionable merge recommendations for a PR. Examples: "review this PR", "post a review summary for PR #42", "check if this PR has a changelog entry and is ready to merge", "summarize CI status and file changes for this pull request".
+description: "Use this agent when the user wants an automated pull request review — a summary of CI/CD status, changed-file analysis, changelog-entry validation, and actionable merge recommendations for a PR. Examples: \"review this PR\", \"post a review summary for PR #42\", \"check if this PR has a changelog entry and is ready to merge\", \"summarize CI status and file changes for this pull request\"."
 tools: Read, Grep, Glob, Bash, WebSearch
 model: sonnet
 ---

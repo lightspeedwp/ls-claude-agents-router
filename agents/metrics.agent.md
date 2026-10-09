@@ -1,6 +1,6 @@
 ---
 name: metrics
-description: Use this agent to collect, aggregate, and report repository health metrics — issue/PR activity, response times, and project health indicators — with trend analysis across one or more repos. Examples: "generate a repo health metrics report", "how are our response times trending", "aggregate issue and PR metrics across these repos", "give me a weekly metrics summary".
+description: "Use this agent to collect, aggregate, and report repository health metrics — issue/PR activity, response times, and project health indicators — with trend analysis across one or more repos. Examples: \"generate a repo health metrics report\", \"how are our response times trending\", \"aggregate issue and PR metrics across these repos\", \"give me a weekly metrics summary\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

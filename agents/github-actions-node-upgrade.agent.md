@@ -1,6 +1,6 @@
 ---
 name: github-actions-node-upgrade
-description: Use this agent to upgrade a GitHub Actions JavaScript/TypeScript action to a newer Node runtime version (e.g., node20 to node24), including the major version bump, CI updates, and full validation. Examples: "upgrade this action from node20 to node24", "bump this action's runtime and validate CI still passes".
+description: "Use this agent to upgrade a GitHub Actions JavaScript/TypeScript action to a newer Node runtime version (e.g., node20 to node24), including the major version bump, CI updates, and full validation. Examples: \"upgrade this action from node20 to node24\", \"bump this action's runtime and validate CI still passes\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

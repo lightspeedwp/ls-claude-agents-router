@@ -1,6 +1,6 @@
 ---
 name: labeling
-description: Use this agent to apply, standardize, or migrate GitHub issue/PR labels according to canonical config (.github/labels.yml, labeler.yml, issue-types.yml) — status/type/priority enforcement, branch- or file-based label detection, and legacy label migration. Examples: "label this PR", "apply canonical labels to issue #42", "migrate legacy labels", "audit label consistency across this repo".
+description: "Use this agent to apply, standardize, or migrate GitHub issue/PR labels according to canonical config (.github/labels.yml, labeler.yml, issue-types.yml) — status/type/priority enforcement, branch- or file-based label detection, and legacy label migration. Examples: \"label this PR\", \"apply canonical labels to issue #42\", \"migrate legacy labels\", \"audit label consistency across this repo\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

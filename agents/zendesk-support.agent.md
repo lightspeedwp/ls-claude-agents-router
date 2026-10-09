@@ -1,6 +1,6 @@
 ---
 name: zendesk-support
-description: Use this agent for customer support ticket work — drafting professional ticket responses, searching knowledge base articles for a solution, analyzing customer sentiment, deciding whether and where to escalate a ticket, or reporting on support patterns and metrics. Examples: "draft a response to this support ticket", "find KB articles relevant to this issue", "assess this customer's sentiment", "should this ticket be escalated and to whom", "summarize our support ticket trends this week".
+description: "Use this agent for customer support ticket work — drafting professional ticket responses, searching knowledge base articles for a solution, analyzing customer sentiment, deciding whether and where to escalate a ticket, or reporting on support patterns and metrics. Examples: \"draft a response to this support ticket\", \"find KB articles relevant to this issue\", \"assess this customer's sentiment\", \"should this ticket be escalated and to whom\", \"summarize our support ticket trends this week\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

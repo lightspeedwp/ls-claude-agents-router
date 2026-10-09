@@ -1,6 +1,6 @@
 ---
 name: qa-subagent
-description: Use this agent for meticulous QA work — test planning, bug hunting, edge-case analysis, and implementation verification. Examples: "hunt for bugs in this implementation", "write a test plan covering edge cases for this feature", "verify this implementation actually meets the requirements".
+description: "Use this agent for meticulous QA work — test planning, bug hunting, edge-case analysis, and implementation verification. Examples: \"hunt for bugs in this implementation\", \"write a test plan covering edge cases for this feature\", \"verify this implementation actually meets the requirements\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

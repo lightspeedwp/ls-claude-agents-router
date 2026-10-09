@@ -1,6 +1,6 @@
 ---
 name: quality-playbook
-description: Use this agent to run a complete quality engineering audit on a codebase. Orchestrates six phases — explore, generate, review, audit, reconcile, verify — each in its own context window for maximum depth, then runs iteration strategies to find defects that structural code review alone can't catch. Examples: "run a full quality audit on this codebase", "find the bugs a normal code review would miss".
+description: "Use this agent to run a complete quality engineering audit on a codebase. Orchestrates six phases — explore, generate, review, audit, reconcile, verify — each in its own context window for maximum depth, then runs iteration strategies to find defects that structural code review alone can't catch. Examples: \"run a full quality audit on this codebase\", \"find the bugs a normal code review would miss\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

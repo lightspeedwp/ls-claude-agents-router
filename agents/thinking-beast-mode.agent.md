@@ -1,6 +1,6 @@
 ---
 name: thinking-beast-mode
-description: Use this agent for open-ended, high-effort coding tasks where you want the agent to keep working autonomously until the problem is completely resolved rather than stopping at the first plausible answer. Examples: "keep going until this is fully fixed, don't stop early", "work through this exhaustively", "don't hand back control until it's actually done".
+description: "Use this agent for open-ended, high-effort coding tasks where you want the agent to keep working autonomously until the problem is completely resolved rather than stopping at the first plausible answer. Examples: \"keep going until this is fully fixed, don't stop early\", \"work through this exhaustively\", \"don't hand back control until it's actually done\"."
 tools: Read, Grep, Glob, Bash, Edit, Write, WebSearch
 model: sonnet
 ---

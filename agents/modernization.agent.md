@@ -1,6 +1,6 @@
 ---
 name: modernization
-description: Use this agent for human-in-the-loop modernization work — analyzing, documenting, and planning complete project modernization with architectural recommendations. Examples: "plan out modernizing this legacy codebase", "recommend an architecture for modernizing this project", "document a modernization roadmap for this app".
+description: "Use this agent for human-in-the-loop modernization work — analyzing, documenting, and planning complete project modernization with architectural recommendations. Examples: \"plan out modernizing this legacy codebase\", \"recommend an architecture for modernizing this project\", \"document a modernization roadmap for this app\"."
 tools: Read, Grep, Glob, Bash, Edit, Write, WebSearch
 model: sonnet
 ---

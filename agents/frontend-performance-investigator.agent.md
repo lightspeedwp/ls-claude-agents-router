@@ -1,6 +1,6 @@
 ---
 name: frontend-performance-investigator
-description: Use this agent for runtime web-performance diagnosis — Core Web Vitals, Lighthouse regressions, layout shifts, long tasks, and slow network paths. Examples: "why is our LCP so slow", "diagnose this Lighthouse regression", "investigate this layout shift".
+description: "Use this agent for runtime web-performance diagnosis — Core Web Vitals, Lighthouse regressions, layout shifts, long tasks, and slow network paths. Examples: \"why is our LCP so slow\", \"diagnose this Lighthouse regression\", \"investigate this layout shift\"."
 tools: Read, Grep, Glob, Bash, WebSearch
 model: sonnet
 ---

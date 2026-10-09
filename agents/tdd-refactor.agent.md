@@ -1,6 +1,6 @@
 ---
 name: tdd-refactor
-description: Use this agent to improve code quality, apply security best practices, and enhance design while maintaining green tests and GitHub issue compliance. Examples: "refactor this now that the tests pass", "run the refactor phase of this TDD cycle without breaking the tests".
+description: "Use this agent to improve code quality, apply security best practices, and enhance design while maintaining green tests and GitHub issue compliance. Examples: \"refactor this now that the tests pass\", \"run the refactor phase of this TDD cycle without breaking the tests\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

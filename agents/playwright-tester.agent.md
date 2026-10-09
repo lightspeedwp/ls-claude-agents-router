@@ -1,6 +1,6 @@
 ---
 name: playwright-tester
-description: Use this agent for writing, running, and debugging Playwright tests. Examples: "write a Playwright test for this flow", "why is this Playwright test flaky", "run the Playwright suite and triage failures".
+description: "Use this agent for writing, running, and debugging Playwright tests. Examples: \"write a Playwright test for this flow\", \"why is this Playwright test flaky\", \"run the Playwright suite and triage failures\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

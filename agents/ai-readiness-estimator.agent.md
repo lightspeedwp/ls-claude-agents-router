@@ -1,6 +1,6 @@
 ---
 name: ai-readiness-estimator
-description: Use this agent when the user needs an organization's AI readiness assessed — evaluating infrastructure, data quality, team skills, and business alignment to produce a readiness score, use-case prioritization, or an AI adoption roadmap. Examples: "assess our AI readiness", "what AI use cases should we prioritize", "build us an AI implementation roadmap", "is our data ready for AI/ML", "how prepared is our team for AI adoption".
+description: "Use this agent when the user needs an organization's AI readiness assessed — evaluating infrastructure, data quality, team skills, and business alignment to produce a readiness score, use-case prioritization, or an AI adoption roadmap. Examples: \"assess our AI readiness\", \"what AI use cases should we prioritize\", \"build us an AI implementation roadmap\", \"is our data ready for AI/ML\", \"how prepared is our team for AI adoption\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

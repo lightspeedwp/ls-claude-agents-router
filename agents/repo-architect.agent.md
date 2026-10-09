@@ -1,6 +1,6 @@
 ---
 name: repo-architect
-description: Use this agent to bootstrap and validate agentic project structures for GitHub Copilot (VS Code) and OpenCode CLI workflows — scaffolding proper folder hierarchies, instructions, agents, skills, and prompts. Typically run after `opencode /init` or VS Code Copilot initialization. Examples: "scaffold the agentic project structure for this repo", "validate our instructions/agents/skills/prompts folder layout".
+description: "Use this agent to bootstrap and validate agentic project structures for GitHub Copilot (VS Code) and OpenCode CLI workflows — scaffolding proper folder hierarchies, instructions, agents, skills, and prompts. Typically run after `opencode /init` or VS Code Copilot initialization. Examples: \"scaffold the agentic project structure for this repo\", \"validate our instructions/agents/skills/prompts folder layout\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

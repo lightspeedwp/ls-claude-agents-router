@@ -1,6 +1,6 @@
 ---
 name: prompt-engineer
-description: Use this agent when the user wants a prompt (system prompt, agent instructions, or any LLM prompt) analyzed, critiqued, rewritten, or validated for quality — including turning a rough instruction into a fully-specified prompt, checking reasoning/structure/examples/output-format, or iterating on an existing prompt. Examples: "improve this prompt", "turn this into a proper system prompt", "review my prompt for issues", "make this prompt more specific", "write a prompt for an agent that does X".
+description: "Use this agent when the user wants a prompt (system prompt, agent instructions, or any LLM prompt) analyzed, critiqued, rewritten, or validated for quality — including turning a rough instruction into a fully-specified prompt, checking reasoning/structure/examples/output-format, or iterating on an existing prompt. Examples: \"improve this prompt\", \"turn this into a proper system prompt\", \"review my prompt for issues\", \"make this prompt more specific\", \"write a prompt for an agent that does X\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

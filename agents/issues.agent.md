@@ -1,6 +1,6 @@
 ---
 name: issues
-description: Use this agent for GitHub issue lifecycle management — classifying issue type, triaging status/priority, and enriching an issue with acceptance criteria, technical details, edge cases, and risk assessment. Examples: "triage issue #123", "classify this issue", "refine and enrich issue 456 with acceptance criteria", "what type should this bug report be labeled".
+description: "Use this agent for GitHub issue lifecycle management — classifying issue type, triaging status/priority, and enriching an issue with acceptance criteria, technical details, edge cases, and risk assessment. Examples: \"triage issue #123\", \"classify this issue\", \"refine and enrich issue 456 with acceptance criteria\", \"what type should this bug report be labeled\"."
 tools: Read, Grep, Glob, Bash, WebSearch
 model: sonnet
 ---

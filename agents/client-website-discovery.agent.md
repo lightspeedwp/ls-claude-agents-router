@@ -1,6 +1,6 @@
 ---
 name: client-website-discovery
-description: Use this agent when the user needs comprehensive website discovery analysis — auditing architecture, UX, performance, and compliance, analyzing competitor landscapes, and identifying feature gaps to inform project scoping and strategy. Examples: "run a discovery audit on this website", "analyze the competitive landscape for this client", "identify feature gaps versus industry standards", "produce a website discovery report for scoping".
+description: "Use this agent when the user needs comprehensive website discovery analysis — auditing architecture, UX, performance, and compliance, analyzing competitor landscapes, and identifying feature gaps to inform project scoping and strategy. Examples: \"run a discovery audit on this website\", \"analyze the competitive landscape for this client\", \"identify feature gaps versus industry standards\", \"produce a website discovery report for scoping\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

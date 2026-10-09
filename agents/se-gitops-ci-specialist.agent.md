@@ -1,6 +1,6 @@
 ---
 name: se-gitops-ci-specialist
-description: Use this agent for CI/CD pipeline work, deployment debugging, and GitOps workflows focused on making deployments boring and reliable. Examples: "debug why this deployment failed", "review our CI/CD pipeline for reliability issues", "set up a GitOps workflow for this repo".
+description: "Use this agent for CI/CD pipeline work, deployment debugging, and GitOps workflows focused on making deployments boring and reliable. Examples: \"debug why this deployment failed\", \"review our CI/CD pipeline for reliability issues\", \"set up a GitOps workflow for this repo\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

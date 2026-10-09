@@ -1,6 +1,6 @@
 ---
 name: php-mcp-expert
-description: Use this agent for PHP MCP server development using the official PHP SDK with attribute-based discovery. Examples: "build an MCP server in PHP", "add an attribute-discovered tool to this PHP MCP server", "debug this PHP MCP SDK integration".
+description: "Use this agent for PHP MCP server development using the official PHP SDK with attribute-based discovery. Examples: \"build an MCP server in PHP\", \"add an attribute-discovered tool to this PHP MCP server\", \"debug this PHP MCP SDK integration\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: metadata
-description: Use this agent to audit metadata consistency and sync GitHub issue labels, PRs, and project-board fields with confidence scoring and multi-tier (Tier 1/2/3) release-readiness validation. Examples: "audit metadata consistency across this repo", "sync project board fields from our labels", "validate release readiness", "discover our label taxonomy".
+description: "Use this agent to audit metadata consistency and sync GitHub issue labels, PRs, and project-board fields with confidence scoring and multi-tier (Tier 1/2/3) release-readiness validation. Examples: \"audit metadata consistency across this repo\", \"sync project board fields from our labels\", \"validate release readiness\", \"discover our label taxonomy\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

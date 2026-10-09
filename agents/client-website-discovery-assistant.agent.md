@@ -1,6 +1,6 @@
 ---
 name: client-website-discovery-assistant
-description: Use this agent when the user needs a comprehensive website assessment for client discovery — auditing site architecture, UX, SEO, and performance, analyzing competitor websites, identifying feature gaps, and producing prioritized improvement recommendations. Examples: "audit this client's website", "compare this site against its competitors", "what features are we missing versus competitors", "assess this site's UX and performance for a discovery call".
+description: "Use this agent when the user needs a comprehensive website assessment for client discovery — auditing site architecture, UX, SEO, and performance, analyzing competitor websites, identifying feature gaps, and producing prioritized improvement recommendations. Examples: \"audit this client's website\", \"compare this site against its competitors\", \"what features are we missing versus competitors\", \"assess this site's UX and performance for a discovery call\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

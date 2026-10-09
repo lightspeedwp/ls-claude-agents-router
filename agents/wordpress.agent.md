@@ -1,6 +1,6 @@
 ---
 name: wordpress
-description: Use this agent for WordPress plugin/theme release versioning across a repository — detecting plugins, themes, and readme.txt files, validating SemVer format and version consistency across them, bumping versions (major/minor/patch), or updating the Version header, style.css version, and readme.txt Stable tag together for a release. Examples: "bump the plugin version to 2.1.0", "check our plugin and readme versions match", "update all WordPress version headers for this release", "detect what WordPress components are in this repo".
+description: "Use this agent for WordPress plugin/theme release versioning across a repository — detecting plugins, themes, and readme.txt files, validating SemVer format and version consistency across them, bumping versions (major/minor/patch), or updating the Version header, style.css version, and readme.txt Stable tag together for a release. Examples: \"bump the plugin version to 2.1.0\", \"check our plugin and readme versions match\", \"update all WordPress version headers for this release\", \"detect what WordPress components are in this repo\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

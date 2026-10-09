@@ -1,6 +1,6 @@
 ---
 name: adr
-description: Use this agent when the user needs an architectural decision record (ADR) generated, validated, or initialized for a repository — creating a new ADR from a template, checking ADR structure/numbering/consistency, or setting up ADR configuration. Examples: "write an ADR for this decision", "generate an architecture decision record", "validate our ADRs", "set up ADR config for this repo", "accept/supersede this ADR".
+description: "Use this agent when the user needs an architectural decision record (ADR) generated, validated, or initialized for a repository — creating a new ADR from a template, checking ADR structure/numbering/consistency, or setting up ADR configuration. Examples: \"write an ADR for this decision\", \"generate an architecture decision record\", \"validate our ADRs\", \"set up ADR config for this repo\", \"accept/supersede this ADR\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

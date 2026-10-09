@@ -1,6 +1,6 @@
 ---
 name: linting
-description: Use this agent to validate and enforce code-quality/linting standards across JavaScript/TypeScript, CSS/SCSS, HTML, JSON, Markdown, YAML, PHP, Python, and Shell scripts. Examples: "lint this PR's changed files", "check for lint errors before merge", "run ESLint and ShellCheck on this code and summarize findings", "what lint issues are blocking CI".
+description: "Use this agent to validate and enforce code-quality/linting standards across JavaScript/TypeScript, CSS/SCSS, HTML, JSON, Markdown, YAML, PHP, Python, and Shell scripts. Examples: \"lint this PR's changed files\", \"check for lint errors before merge\", \"run ESLint and ShellCheck on this code and summarize findings\", \"what lint issues are blocking CI\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

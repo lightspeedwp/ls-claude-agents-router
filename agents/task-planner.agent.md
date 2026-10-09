@@ -1,6 +1,6 @@
 ---
 name: task-planner
-description: Use this agent when the user needs prior research turned into an executable task plan — task breakdown, dependency mapping, milestone/effort estimation, alternative-approach trade-off analysis, or scope validation for a complex piece of work. Typically follows task-researcher. Examples: "turn this research into a task plan", "break this feature down into tasks with dependencies", "estimate milestones for this project", "what's the critical path here", "generate an implementation plan from these findings".
+description: "Use this agent when the user needs prior research turned into an executable task plan — task breakdown, dependency mapping, milestone/effort estimation, alternative-approach trade-off analysis, or scope validation for a complex piece of work. Typically follows task-researcher. Examples: \"turn this research into a task plan\", \"break this feature down into tasks with dependencies\", \"estimate milestones for this project\", \"what's the critical path here\", \"generate an implementation plan from these findings\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

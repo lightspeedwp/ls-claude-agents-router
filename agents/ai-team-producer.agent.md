@@ -1,6 +1,6 @@
 ---
 name: ai-team-producer
-description: Use this agent when planning work, clarifying scope, coordinating Dev and optional QA, triaging issues, maintaining project context, or preparing and merging pull requests. Never writes application code. Examples: "plan out this piece of work", "triage this issue and clarify scope", "coordinate the dev and QA work on this PR".
+description: "Use this agent when planning work, clarifying scope, coordinating Dev and optional QA, triaging issues, maintaining project context, or preparing and merging pull requests. Never writes application code. Examples: \"plan out this piece of work\", \"triage this issue and clarify scope\", \"coordinate the dev and QA work on this PR\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---
