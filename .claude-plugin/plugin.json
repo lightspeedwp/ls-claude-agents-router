@@ -1,8 +1,8 @@
 {
-	"$schema": "https://anthropic.com/claude-code/plugin.schema.json",
-	"name": "lsx-agents",
-	"version": "1.0.0",
-	"description": "Includes the agents from LightSpeeds .github repository.",
+	"$schema": "https://github.com/hesreallyhim/claude-code-json-schema/blob/main/schemas/plugin.schema.json",
+	"name": "ls-claude-agents-router",
+	"version": "1.0.3",
+	"description": "Routes the agents from LightSpeeds .github repository to the claude app.",
 	"author": {
 		"name": "krugazul",
 		"email": "krugazul@gmail.com"
