@@ -1,4 +1,4 @@
-# lightspeed-claude-agents-plugin
+# ls-claude-agents-router
 
 A useful tool to allow the detection of agent listed in your .github repo.
 
