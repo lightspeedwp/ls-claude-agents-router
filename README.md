@@ -11,7 +11,7 @@ example by running `gh auth login` and then `gh auth setup-git`.
 In a Claude Code session, run:
 
 ```text
-/plugin marketplace add lightspeedwp/lightspeed-claude-agents-plugin
+/plugin marketplace add lightspeedwp/ls-claude-agents-router
 /plugin install ls-claude-agents-router@lightspeedwp
 ```
 

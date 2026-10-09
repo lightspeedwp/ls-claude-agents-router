@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added the `repository` field to `.claude-plugin/plugin.json`, pointing at
-  `https://github.com/lightspeedwp/lightspeed-claude-agents-plugin`.
+  `https://github.com/lightspeedwp/ls-claude-agents-router`.
 - Added `.claude-plugin/marketplace.json` so the repository works as its own
   `lightspeedwp` marketplace, and install and update steps to the README.
 
