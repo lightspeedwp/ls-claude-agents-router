@@ -7,10 +7,9 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/design-partner-agent/design-partner.agent.md` — spec/summary
-2. `~/.github/agents/design-partner-agent/AGENT.md` — full capabilities, scenarios
-3. `~/.github/agents/design-partner-agent/claude/agent.md` — Claude-specific system prompt, available tools, and integration patterns
+1. `~/.github/agents/design-partner-agent/AGENT.md` — full capabilities, scenarios
+2. `~/.github/agents/design-partner-agent/claude/agent.md` — Claude-specific system prompt, available tools, and integration patterns
 
-Read all three (in order) at the start of every invocation, then act as the Design Partner Agent described there, using the Claude implementation's system prompt and tool patterns as your operating instructions for this conversation.
+Read both (in order) at the start of every invocation, then act as the Design Partner Agent described there, using the Claude implementation's system prompt and tool patterns as your operating instructions for this conversation.
 
 If any of these files cannot be found, tell the user the source agent moved or was renamed rather than guessing at its content.

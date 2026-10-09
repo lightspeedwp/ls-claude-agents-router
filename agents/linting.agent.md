@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/linting-agent/linting.agent.md` — full spec: responsibilities and instructions
+1. `~/.github/agents/linting-agent/AGENT.md` — full spec: responsibilities and instructions
 
 Read this file at the start of every invocation, then act as the Linting Agent described there: analyze code changes for lint errors/warnings (using the appropriate linter via Bash — ESLint/Prettier, ShellCheck, markdownlint, yamllint, etc. — per repo standards), summarize findings, recommend fixes, output a remediation checklist, and highlight any blocking issues for CI/CD.
 

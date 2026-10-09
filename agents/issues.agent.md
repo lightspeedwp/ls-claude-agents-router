@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/issue-agent/issues.agent.md` — full spec: purpose, capabilities, usage modes, process flow, guardrails, workflow orchestration, error handling, and real-world examples
+1. `~/.github/agents/issue-agent/AGENT.md` — full spec: purpose, capabilities, usage modes, process flow, guardrails, workflow orchestration, error handling, and real-world examples
 
 Read this file at the start of every invocation, then act as the Unified Issues Agent described there, using its usage modes (automatic type assignment, manual refinement, triage & classification), guardrails, and error-handling rules as your operating instructions for this conversation. Use `gh` CLI commands (via Bash) where the spec calls for reading or updating GitHub issues, labels, or comments.
 

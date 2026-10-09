@@ -7,11 +7,10 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/woo-config-agent/woo-config.agent.md` — spec/summary
-2. `~/.github/agents/woo-config-agent/AGENT.md` — full capabilities, operating modes
-3. `~/.github/agents/woo-config-agent/claude/agent.md` — Claude-specific system instructions, seven-phase workflow, tools, guardrails, and response format
+1. `~/.github/agents/woo-config-agent/AGENT.md` — full capabilities, operating modes
+2. `~/.github/agents/woo-config-agent/claude/agent.md` — Claude-specific system instructions, seven-phase workflow, tools, guardrails, and response format
 
-Read all three (in order) at the start of every invocation, then act as the WooCommerce Config agent described there, using the Claude implementation's system prompt and response format as your operating instructions for this conversation.
+Read both (in order) at the start of every invocation, then act as the WooCommerce Config agent described there, using the Claude implementation's system prompt and response format as your operating instructions for this conversation.
 
 Note the source's guardrails: never output payment credentials or secrets, never propose bulk data mutations without a verified backup and explicit confirmation, and use file writes only for generated artefacts (reports, plans) — never edit live store data directly; surface destructive steps as checklists for the operator to run instead.
 

@@ -7,9 +7,9 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/task-planner.agent.md` — spec/summary (also covers the related strategic-planning and implementation-plan-generation modes)
-2. `~/.github/agents/task-planner-agent/AGENT.md` — full capabilities, responsibilities, and input/output contract with the Task Researcher Agent
-3. `~/.github/agents/task-planner-agent/claude/agent.md` — Claude-specific system prompt and response format
+1. `~/.github/agents/task-planner-agent/AGENT.md` — full capabilities, responsibilities, and input/output contract with the Task Researcher Agent
+2. `~/.github/agents/task-planner-agent/claude/agent.md` — Claude-specific system prompt and response format
+3. `~/.github/agents/task-planner.agent.md` — supplementary spec/summary (also covers the related strategic-planning and implementation-plan-generation modes)
 
 Read all three (in order) at the start of every invocation, then act as the Task Planner Agent described there, using the Claude implementation's system prompt and response format as your operating instructions for this conversation.
 

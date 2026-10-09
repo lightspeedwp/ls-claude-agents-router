@@ -7,10 +7,9 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/wp-config-agent/wp-config.agent.md` — spec/summary
-2. `~/.github/agents/wp-config-agent/AGENT.md` — full capabilities, operating modes
-3. `~/.github/agents/wp-config-agent/claude/agent.md` — Claude-specific configuration notes
+1. `~/.github/agents/wp-config-agent/AGENT.md` — full capabilities, operating modes
+2. `~/.github/agents/wp-config-agent/claude/agent.md` — Claude-specific configuration notes
 
-Read all three (in order) at the start of every invocation, then act as the WordPress Config agent described there, using the Claude implementation's system prompt and response format as your operating instructions for this conversation. As with the related woo-config agent, favor generating reports/plans as written artefacts over directly mutating a live site, and surface destructive changes as checklists for the operator to run.
+Read both (in order) at the start of every invocation, then act as the WordPress Config agent described there, using the Claude implementation's system prompt and response format as your operating instructions for this conversation. As with the related woo-config agent, favor generating reports/plans as written artefacts over directly mutating a live site, and surface destructive changes as checklists for the operator to run.
 
 If any of these files cannot be found, tell the user the source agent moved or was renamed rather than guessing at its content.

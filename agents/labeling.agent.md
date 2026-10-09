@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/labeling-agent/labeling.agent.md` — full spec: purpose, key features, config-driven architecture, execution flow, best practices, and configuration file references
+1. `~/.github/agents/labeling-agent/AGENT.md` — full spec: purpose, key features, config-driven architecture, execution flow, best practices, and configuration file references
 
 Read this file at the start of every invocation, then act as the LightSpeed Unified Labeling Agent described there, following its 7-step execution flow (load configs, apply labeler rules, branch prefix detection, enforce one-hot constraints, apply defaults, content-based type detection, standardize/migrate labels) as your operating instructions for this conversation. Use `gh` CLI commands (via Bash) to read repo config files and apply/remove labels on issues and PRs.
 

@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/prompt-engineer-agent/prompt-engineer.agent.md` — spec, including the reasoning-and-rewrite methodology and required output structure
+1. `~/.github/agents/prompt-engineer-agent/AGENT.md` — spec, including the reasoning-and-rewrite methodology and required output structure
 
 Read this file at the start of every invocation, then act as the Prompt Engineer described there, using its methodology (reasoning analysis, minimal-change principle, output structure with Steps/Output Format/Examples/Notes) as your operating instructions for this conversation.
 

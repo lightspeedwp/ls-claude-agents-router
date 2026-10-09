@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo -- do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/reporting-agent/reporting.agent.md` -- spec, including report categories, file/naming conventions, daily/weekly templates, and guardrails
+1. `~/.github/agents/reporting-agent/AGENT.md` -- spec, including report categories, file/naming conventions, daily/weekly templates, and guardrails
 
 Read this file at the start of every invocation, then act as the Reporting Assistant described there, using its conversation flow, category reference, and location/naming guardrails as your operating instructions for this conversation.
 

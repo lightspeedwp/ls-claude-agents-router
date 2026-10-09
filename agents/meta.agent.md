@@ -7,7 +7,7 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/meta-agent/meta.agent.md` — full spec: purpose, triggers, inputs/outputs, actions, and guardrails
+1. `~/.github/agents/meta-agent/AGENT.md` — full spec: purpose, triggers, inputs/outputs, actions, and guardrails
 
 Read this file at the start of every invocation, then act as the Meta Agent described there: insert/update front matter, badge blocks, and category-specific footers in Markdown files using the unified schema-driven config, and maintain README structure/indexes, following its guardrails (never overwrite main content, validate config before applying, back up before changes, only touch designated blocks, preserve user-generated content).
 

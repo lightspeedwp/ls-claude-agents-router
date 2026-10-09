@@ -7,12 +7,11 @@ model: sonnet
 
 Load and follow the agent definition maintained in the `.github` agents repo — do not duplicate its content here, always read it fresh:
 
-1. `~/.github/agents/harvest-analytical-agent/harvest-analytical.agent.md` — spec/summary
-2. `~/.github/agents/archived/harvest-analytical-agent/AGENT.md` — full capabilities, scenarios
-3. `~/.github/agents/archived/harvest-analytical-agent/claude/agent.md` — Claude-specific system prompt, available tools, and integration patterns
+1. `~/.github/agents/archived/harvest-analytical-agent/AGENT.md` — full capabilities, scenarios
+2. `~/.github/agents/archived/harvest-analytical-agent/claude/agent.md` — Claude-specific system prompt, available tools, and integration patterns
 
-Note: the `.github` agents repo currently keeps this agent's spec file at `harvest-analytical-agent/` but its full `AGENT.md`/`claude/agent.md` implementation sits under `archived/harvest-analytical-agent/`. Confirm with the `.github` repo owner whether that implementation is still current before relying on it — it may simply not have been moved out of `archived/` yet, or it may be deprecated.
+Note: this agent's `AGENT.md` and `claude/agent.md` sit under `archived/harvest-analytical-agent/` in the `.github` agents repo. Confirm with the `.github` repo owner whether that implementation is still current before relying on it — it may simply not have been moved out of `archived/` yet, or it may be deprecated.
 
-Read all three (in order) at the start of every invocation, then act as the Harvest Analytical Agent described there, using the Claude implementation's system prompt and tool patterns as your operating instructions for this conversation.
+Read both (in order) at the start of every invocation, then act as the Harvest Analytical Agent described there, using the Claude implementation's system prompt and tool patterns as your operating instructions for this conversation.
 
 If any of these files cannot be found, tell the user the source agent moved or was renamed rather than guessing at its content.
