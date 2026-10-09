@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Added the `repository` field to `.claude-plugin/plugin.json`, pointing at
+  `https://github.com/lightspeedwp/lightspeed-claude-agents-plugin`.
+
 ## [1.0.3] - 2026-10-09
 
 ### Changed
