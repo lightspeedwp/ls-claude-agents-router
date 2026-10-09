@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.4] - 2026-10-09
+
+### Changed
+
+- Test release used to verify that plugin updates reach installed copies
+  through the self-hosted `lightspeedwp` marketplace. It contains no
+  functional changes beyond those listed below.
+
 ### Added
 
 - Added the `repository` field to `.claude-plugin/plugin.json`, pointing at

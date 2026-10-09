@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/hesreallyhim/claude-code-json-schema/refs/heads/main/schemas/plugin.schema.json",
 	"name": "ls-claude-agents-router",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Routes the agents from LightSpeeds .github repository to the claude app.",
 	"author": {
 		"name": "krugazul",
