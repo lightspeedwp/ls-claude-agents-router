@@ -7,6 +7,7 @@
 		"name": "krugazul",
 		"email": "krugazul@gmail.com"
 	},
+	"repository": "https://github.com/lightspeedwp/ls-claude-agents-router",
 	"agents": [
 		"./agents/adr.agent.md",
 		"./agents/address-comments.agent.md",
