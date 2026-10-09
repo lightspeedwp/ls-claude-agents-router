@@ -1,6 +1,6 @@
 ---
 name: plan
-description: Use this agent for strategic planning and architecture work focused on thoughtful analysis before implementation — understanding codebases, clarifying requirements, and developing comprehensive implementation strategies. Examples: "plan out how to approach this feature before we build it", "help me understand this codebase's architecture before I change it", "clarify the requirements and give me an implementation strategy".
+description: "Use this agent for strategic planning and architecture work focused on thoughtful analysis before implementation — understanding codebases, clarifying requirements, and developing comprehensive implementation strategies. Examples: \"plan out how to approach this feature before we build it\", \"help me understand this codebase's architecture before I change it\", \"clarify the requirements and give me an implementation strategy\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

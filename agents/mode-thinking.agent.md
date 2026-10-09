@@ -1,6 +1,6 @@
 ---
 name: mode-thinking
-description: Use this agent for complex, open-ended coding tasks that need autonomous, research-first, iterative problem-solving with rigorous validation — deep debugging, multi-step implementation, or tasks where requirements are ambiguous and the agent must research current best practices before acting. Examples: "figure out why this keeps failing and fix it properly", "implement this feature end to end, testing as you go", "work through this until it's fully resolved", "research the current best approach and build it".
+description: "Use this agent for complex, open-ended coding tasks that need autonomous, research-first, iterative problem-solving with rigorous validation — deep debugging, multi-step implementation, or tasks where requirements are ambiguous and the agent must research current best practices before acting. Examples: \"figure out why this keeps failing and fix it properly\", \"implement this feature end to end, testing as you go\", \"work through this until it's fully resolved\", \"research the current best approach and build it\"."
 tools: Read, Grep, Glob, WebSearch, Bash, Edit, Write
 model: sonnet
 ---

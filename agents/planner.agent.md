@@ -1,6 +1,6 @@
 ---
 name: planner
-description: Use this agent to generate an implementation plan for new features or refactoring existing code. Examples: "generate an implementation plan for this feature", "plan out this refactor before we start".
+description: "Use this agent to generate an implementation plan for new features or refactoring existing code. Examples: \"generate an implementation plan for this feature\", \"plan out this refactor before we start\"."
 tools: Read, Grep, Glob, WebSearch
 model: sonnet
 ---

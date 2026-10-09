@@ -1,6 +1,6 @@
 ---
 name: linkedin-post-writer
-description: Use this agent to draft and format compelling LinkedIn posts with Unicode bold/italic styling, visual separators, and engagement-optimized structure — transforming raw content, technical material, or ideas into copy-paste-ready LinkedIn posts. Examples: "turn this into a LinkedIn post", "write a LinkedIn post about this project milestone", "make this technical writeup social-ready".
+description: "Use this agent to draft and format compelling LinkedIn posts with Unicode bold/italic styling, visual separators, and engagement-optimized structure — transforming raw content, technical material, or ideas into copy-paste-ready LinkedIn posts. Examples: \"turn this into a LinkedIn post\", \"write a LinkedIn post about this project milestone\", \"make this technical writeup social-ready\"."
 tools: Read, Write, WebSearch
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: specification
-description: Use this agent to generate or update specification documents for new or existing functionality. Examples: "write a spec for this feature", "update the specification to reflect this change".
+description: "Use this agent to generate or update specification documents for new or existing functionality. Examples: \"write a spec for this feature\", \"update the specification to reflect this change\"."
 tools: Read, Grep, Glob, Edit, Write, WebSearch
 model: sonnet
 ---

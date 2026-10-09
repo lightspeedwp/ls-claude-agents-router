@@ -1,6 +1,6 @@
 ---
 name: ai-readiness-reporter
-description: Use this agent when asked to assess, audit, score, report on, or visualise the AI readiness of a repository. Runs the AgentRC readiness assessment and produces a self-contained, static HTML dashboard explaining every readiness pillar, the maturity level, and an actionable remediation plan. Examples: "assess this repo's AI readiness", "score our repo health and AI setup", "generate an AI-readiness dashboard".
+description: "Use this agent when asked to assess, audit, score, report on, or visualise the AI readiness of a repository. Runs the AgentRC readiness assessment and produces a self-contained, static HTML dashboard explaining every readiness pillar, the maturity level, and an actionable remediation plan. Examples: \"assess this repo's AI readiness\", \"score our repo health and AI setup\", \"generate an AI-readiness dashboard\"."
 tools: Read, Grep, Glob, Bash, Write
 model: sonnet
 ---

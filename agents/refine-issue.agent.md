@@ -1,6 +1,6 @@
 ---
 name: refine-issue
-description: Use this agent to refine a requirement or GitHub issue with acceptance criteria, technical considerations, edge cases, and non-functional requirements. Examples: "refine this issue with proper acceptance criteria", "flesh out the edge cases and NFRs for this requirement".
+description: "Use this agent to refine a requirement or GitHub issue with acceptance criteria, technical considerations, edge cases, and non-functional requirements. Examples: \"refine this issue with proper acceptance criteria\", \"flesh out the edge cases and NFRs for this requirement\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

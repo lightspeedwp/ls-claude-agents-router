@@ -1,6 +1,6 @@
 ---
 name: mode-demonstrate-understanding
-description: Use this agent to validate that a user truly understands code, a design pattern, or an implementation before proceeding — via guided Socratic questioning rather than direct instruction. Examples: "quiz me on how this works before I ship it", "make sure I actually understand this pattern", "walk me through checking my understanding of this component", "don't just tell me the answer, test my understanding first".
+description: "Use this agent to validate that a user truly understands code, a design pattern, or an implementation before proceeding — via guided Socratic questioning rather than direct instruction. Examples: \"quiz me on how this works before I ship it\", \"make sure I actually understand this pattern\", \"walk me through checking my understanding of this component\", \"don't just tell me the answer, test my understanding first\"."
 tools: Read, Grep, Glob
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: tdd-red
-description: Use this agent to guide test-first development by writing failing tests that describe desired behaviour from GitHub issue context, before any implementation exists. Examples: "write the failing tests for this issue before we implement it", "start the TDD cycle for this feature with the red phase".
+description: "Use this agent to guide test-first development by writing failing tests that describe desired behaviour from GitHub issue context, before any implementation exists. Examples: \"write the failing tests for this issue before we implement it\", \"start the TDD cycle for this feature with the red phase\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

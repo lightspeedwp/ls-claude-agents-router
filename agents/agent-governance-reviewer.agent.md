@@ -1,6 +1,6 @@
 ---
 name: agent-governance-reviewer
-description: Use this agent when the user wants an AI agent system reviewed for governance, safety, and trust issues — missing policy enforcement, trust scoring, or audit trails. Examples: "review this agent's code for governance gaps", "does this agent system have proper audit trails", "check this for AI safety/policy enforcement issues".
+description: "Use this agent when the user wants an AI agent system reviewed for governance, safety, and trust issues — missing policy enforcement, trust scoring, or audit trails. Examples: \"review this agent's code for governance gaps\", \"does this agent system have proper audit trails\", \"check this for AI safety/policy enforcement issues\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

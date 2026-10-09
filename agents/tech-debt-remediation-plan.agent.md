@@ -1,6 +1,6 @@
 ---
 name: tech-debt-remediation-plan
-description: Use this agent to generate technical debt remediation plans for code, tests, and documentation. Analysis only — it never modifies code. Examples: "generate a tech debt remediation plan for this module", "analyze this codebase's technical debt and give me an actionable plan".
+description: "Use this agent to generate technical debt remediation plans for code, tests, and documentation. Analysis only — it never modifies code. Examples: \"generate a tech debt remediation plan for this module\", \"analyze this codebase's technical debt and give me an actionable plan\"."
 tools: Read, Grep, Glob, Bash, WebSearch
 model: sonnet
 ---

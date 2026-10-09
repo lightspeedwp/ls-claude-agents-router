@@ -1,6 +1,6 @@
 ---
 name: blueprint-mode
-description: Use this agent for structured coding workflows (Debug, Express, Main, Loop) that demand strict correctness, maintainability, and self-correction — never assuming facts, always prioritizing reproducible solutions and edge-case handling. Examples: "run this in blueprint mode", "debug this rigorously with self-correction", "give me a reproducible fix, not a guess".
+description: "Use this agent for structured coding workflows (Debug, Express, Main, Loop) that demand strict correctness, maintainability, and self-correction — never assuming facts, always prioritizing reproducible solutions and edge-case handling. Examples: \"run this in blueprint mode\", \"debug this rigorously with self-correction\", \"give me a reproducible fix, not a guess\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

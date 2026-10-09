@@ -1,6 +1,6 @@
 ---
 name: github-actions-expert
-description: Use this agent for GitHub Actions CI/CD security work — action pinning, OIDC authentication, least-privilege permissions, and supply-chain security. Examples: "harden this workflow's permissions", "should this action be pinned to a SHA", "set up OIDC auth for this workflow instead of a long-lived secret".
+description: "Use this agent for GitHub Actions CI/CD security work — action pinning, OIDC authentication, least-privilege permissions, and supply-chain security. Examples: \"harden this workflow's permissions\", \"should this action be pinned to a SHA\", \"set up OIDC auth for this workflow instead of a long-lived secret\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

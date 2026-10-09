@@ -1,6 +1,6 @@
 ---
 name: ai-team-dev
-description: Use this agent when implementing features, fixing bugs, writing tests, improving user experience, or preparing a pull request across the project's actual stack. Combines three perspectives — Nova (client/interaction/presentation), Sage, and Milo — using only the ones relevant to the project. Examples: "implement this feature", "fix this bug and add a test", "prepare a PR for this change".
+description: "Use this agent when implementing features, fixing bugs, writing tests, improving user experience, or preparing a pull request across the project's actual stack. Combines three perspectives — Nova (client/interaction/presentation), Sage, and Milo — using only the ones relevant to the project. Examples: \"implement this feature\", \"fix this bug and add a test\", \"prepare a PR for this change\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---

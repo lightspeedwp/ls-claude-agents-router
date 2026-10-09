@@ -1,6 +1,6 @@
 ---
 name: ai-team-qa
-description: Use this agent when testing behavior, running automated or exploratory checks, filing reproducible bugs, verifying fixes, or providing release confidence for changes that warrant dedicated QA. Finds and explains problems; does not fix application source. Examples: "QA this change before we ship", "verify this fix actually works", "run exploratory checks on this feature".
+description: "Use this agent when testing behavior, running automated or exploratory checks, filing reproducible bugs, verifying fixes, or providing release confidence for changes that warrant dedicated QA. Finds and explains problems; does not fix application source. Examples: \"QA this change before we ship\", \"verify this fix actually works\", \"run exploratory checks on this feature\"."
 tools: Read, Grep, Glob, Bash
 model: sonnet
 ---

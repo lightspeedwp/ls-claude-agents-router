@@ -1,6 +1,6 @@
 ---
 name: address-comments
-description: Use this agent when the user wants to address review comments on an existing pull request — reading each comment, making the corresponding code change, and replying to or resolving the thread. Examples: "address the review comments on this PR", "go through PR #42's feedback and fix it", "resolve the reviewer's comments".
+description: "Use this agent when the user wants to address review comments on an existing pull request — reading each comment, making the corresponding code change, and replying to or resolving the thread. Examples: \"address the review comments on this PR\", \"go through PR #42's feedback and fix it\", \"resolve the reviewer's comments\"."
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: sonnet
 ---
