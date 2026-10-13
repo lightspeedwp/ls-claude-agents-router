@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Added the `wp-db-migration` agent, which wraps
+  `agents/wp-db-migration-agent/` from `lightspeedwp/.github` (spec 020). It
+  makes MySQL exports importable into WordPress Studio, checks Studio exports
+  before staging or live, and replaces site URLs safely.
+
 ## [1.0.4] - 2026-10-09
 
 ### Changed

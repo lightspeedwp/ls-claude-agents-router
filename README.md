@@ -26,7 +26,7 @@ changes, so bump it with every release. To pull updates:
 
 ## Agents
 
-This plugin ships 67 specialised agents under [`agents/`](./agents), each defined in a `*.agent.md` file.
+This plugin ships 68 specialised agents under [`agents/`](./agents), each defined in a `*.agent.md` file.
 
 ### LightSpeed business agents
 
@@ -71,6 +71,7 @@ This plugin ships 67 specialised agents under [`agents/`](./agents), each define
 | `woo-config` | WooCommerce store configuration and optimisation — payments, performance, catalogue. |
 | `wordpress` | WordPress plugin/theme release versioning — SemVer validation and version bumps. |
 | `wp-config` | WordPress site configuration — plugins, theming, performance, security hardening. |
+| `wp-db-migration` | Move WordPress databases between MySQL live/staging sites and WordPress Studio — clean exports, pre-flight checks, safe URL replacement. |
 | `zendesk-support` | Customer support ticket responses, KB search, sentiment analysis, escalation guidance. |
 
 ### General dev-persona / mode agents (Copilot-chatmode style specs)
