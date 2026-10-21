@@ -76,6 +76,7 @@
 		"./agents/wordpress.agent.md",
 		"./agents/wp-config.agent.md",
 		"./agents/wp-db-migration.agent.md",
+		"./agents/wp-schema-audit.agent.md",
 		"./agents/zendesk-support.agent.md"
 	]
 }
