@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.6] - 2026-10-21
+
+### Added
+
+- Added the `wp-schema-audit` agent, which wraps
+  `agents/wp-schema-audit-agent/` from `lightspeedwp/.github` (spec 023). It
+  picks test URLs per post type, taxonomy and key page, validates each page's
+  JSON-LD against schema.org and Google rich-result rules, and produces a
+  prioritised Markdown report and findings CSV.
+
 ## [1.0.5] - 2026-10-13
 
 ### Added
